@@ -1,4 +1,4 @@
-## Hi ~ 👋✨
+# Hi ~ 👋✨
 
 - 😄 Pronouns: assert "Yu" == "You"
 - ⚡ Fun fact: how are yu?
