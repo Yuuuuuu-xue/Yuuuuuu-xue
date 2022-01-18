@@ -1,6 +1,6 @@
 # Hi ~ 👋✨
 
-- 😄 Pronouns: assert "Yu" == "You"
+- 😄 Pronouns: "Yu" === "You"
 - ⚡ Fun fact: how are yu?
 - 🌱 I’m currently learning:
   
