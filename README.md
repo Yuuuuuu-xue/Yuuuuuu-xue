@@ -1,6 +1,6 @@
 # Hi ~ 👋✨
 
-- 😄 Pronouns: "Yu" === "You"
+- 😄 Name: "Yu" === "You"
 - ⚡ Fun fact: how are yu?
 - 🌱 I’m currently learning:
   
