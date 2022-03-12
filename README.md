@@ -8,7 +8,6 @@
   &nbsp;
   <code><img height="40" src="https://camo.githubusercontent.com/c208789cfe0e64cd8e39a3ed1f7e7a04e26e18132bd0dcd510f42a17ac8a3984/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f72656469732d322f313435312f556e7469746c65642d322d3531322e706e67"></code>
   &nbsp;
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 - ❤️ My favourite languages and tools:
   
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
