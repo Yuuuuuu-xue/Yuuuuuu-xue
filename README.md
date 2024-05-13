@@ -9,6 +9,10 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
   &nbsp;
   <code><img height="40" src="https://avatars.githubusercontent.com/u/5430905?s=48&v=4"></code>
+  &nbsp;
+  <code><img height="40" src="https://github.com/elastic.png?size=40"></code>
+  &nbsp;
+  <code><img height="40" src="https://logosandtypes.com/wp-content/uploads/2020/07/kafka.png"></code>
 
 - ❤️ My favourite languages and tools:
   
